@@ -13,6 +13,8 @@
 |Arnav Singh | arnavsingh010 |IIIT-A |
 
 |Vishva Modh|ViMo018|IIIT Allahabad|
+
+|Varad Singhal | VaradSinghal | SRMIST | 
 <!-- ADD ABOVE THIS-->
 <!--example |Korvac | Betty |Reyansh College| IIT2024067|>
 
